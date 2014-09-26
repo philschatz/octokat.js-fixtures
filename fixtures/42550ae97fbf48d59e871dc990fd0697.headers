@@ -1,0 +1,43 @@
+{
+  "statusCode": 200,
+  "headers": {
+    "server": "GitHub.com",
+    "date": "Fri, 26 Sep 2014 21:22:10 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "connection": "close",
+    "status": "200 OK",
+    "x-ratelimit-limit": "5000",
+    "x-ratelimit-remaining": "4864",
+    "x-ratelimit-reset": "1411770024",
+    "cache-control": "private, max-age=60, s-maxage=60",
+    "etag": "\"04a1b2d5a0ebb55de6ab70b37fbe9d25\"",
+    "x-oauth-scopes": "gist, repo, user",
+    "x-accepted-oauth-scopes": "",
+    "vary": "Accept, Authorization, Cookie, X-GitHub-OTP",
+    "x-github-media-type": "github.v3; format=json",
+    "link": "<https://api.github.com/repositories/14854242/issues/1/comments?page=2>; rel=\"next\", <https://api.github.com/repositories/14854242/issues/1/comments?page=2>; rel=\"last\"",
+    "x-xss-protection": "1; mode=block",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'",
+    "content-length": "39249",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "17757AFA:76FC:C0F49F9:5425D902",
+    "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "3061975e1f37121b3751604ad153c687"
+  },
+  "url": "https://api.github.com:443/repos/octokit-test/octokit-test-repo/issues/1/comments",
+  "time": 492,
+  "request": {
+    "method": "GET",
+    "headers": {
+      "User-Agent": "octokat.js",
+      "Accept": "application/vnd.github.v3+json",
+      "If-Modified-Since": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "Authorization": "token dca7f85a5911df8e9b7aeb4c5be8f5f50806ac49",
+      "Host": "api.github.com"
+    }
+  }
+}

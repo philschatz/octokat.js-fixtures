@@ -1,0 +1,43 @@
+{
+  "statusCode": 200,
+  "headers": {
+    "server": "GitHub.com",
+    "date": "Fri, 26 Sep 2014 21:21:33 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "connection": "close",
+    "status": "200 OK",
+    "x-ratelimit-limit": "5000",
+    "x-ratelimit-remaining": "4949",
+    "x-ratelimit-reset": "1411770024",
+    "cache-control": "private, max-age=60, s-maxage=60",
+    "etag": "\"6e5d82adaa65975cbe9551a819ddbb90\"",
+    "x-oauth-scopes": "gist, repo, user",
+    "x-accepted-oauth-scopes": "",
+    "vary": "Accept, Authorization, Cookie, X-GitHub-OTP",
+    "x-github-media-type": "github.v3; format=json",
+    "link": "<https://api.github.com/gists?page=2>; rel=\"next\", <https://api.github.com/gists?page=2>; rel=\"last\"",
+    "x-xss-protection": "1; mode=block",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'",
+    "content-length": "53821",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "17757AFA:5B15:15AFD869:5425D8DC",
+    "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "a1d8c69b807c8e21f06cad9da377d1b0"
+  },
+  "url": "https://api.github.com:443/gists",
+  "time": 963,
+  "request": {
+    "method": "GET",
+    "headers": {
+      "User-Agent": "octokat.js",
+      "Accept": "application/vnd.github.v3+json",
+      "If-Modified-Since": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "Authorization": "token dca7f85a5911df8e9b7aeb4c5be8f5f50806ac49",
+      "Host": "api.github.com"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "statusCode": 200,
+  "headers": {
+    "server": "GitHub.com",
+    "date": "Fri, 26 Sep 2014 21:21:21 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "connection": "close",
+    "status": "200 OK",
+    "x-ratelimit-limit": "5000",
+    "x-ratelimit-remaining": "4973",
+    "x-ratelimit-reset": "1411770024",
+    "cache-control": "private, max-age=60, s-maxage=60",
+    "last-modified": "Fri, 26 Sep 2014 14:21:20 GMT",
+    "etag": "\"2619c70e116b982b0c5b3740770f21f8\"",
+    "x-poll-interval": "60",
+    "x-oauth-scopes": "gist, repo, user",
+    "x-accepted-oauth-scopes": "repo",
+    "vary": "Accept, Authorization, Cookie, X-GitHub-OTP",
+    "x-github-media-type": "github.v3; format=json",
+    "link": "<https://api.github.com/events?page=2>; rel=\"next\"",
+    "x-xss-protection": "1; mode=block",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'",
+    "content-length": "89711",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "17757AFA:13B0:2165A9C3:5425D8D1",
+    "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "d818ddef80f4c7d10683dd483558952a"
+  },
+  "url": "https://api.github.com:443/events",
+  "time": 539,
+  "request": {
+    "method": "GET",
+    "headers": {
+      "User-Agent": "octokat.js",
+      "Accept": "application/vnd.github.v3+json",
+      "If-Modified-Since": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "Authorization": "token dca7f85a5911df8e9b7aeb4c5be8f5f50806ac49",
+      "Host": "api.github.com"
+    }
+  }
+}

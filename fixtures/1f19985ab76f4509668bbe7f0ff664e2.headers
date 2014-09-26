@@ -1,0 +1,26 @@
+{
+  "statusCode": 200,
+  "headers": {
+    "server": "GitHub.com",
+    "date": "Fri, 26 Sep 2014 21:21:35 GMT",
+    "content-type": "application/json;charset=utf-8",
+    "connection": "close",
+    "status": "200 OK",
+    "content-length": "93",
+    "x-octostatus-request-id": "11848858-1c30-4b23-8750-c30b98485225",
+    "timing-allow-origin": "https://github.com",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://status.github.com:443/api/last-message.json",
+  "time": 340,
+  "request": {
+    "method": "GET",
+    "headers": {
+      "User-Agent": "octokat.js",
+      "Accept": "application/vnd.github.v3+json",
+      "If-Modified-Since": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "Authorization": "token dca7f85a5911df8e9b7aeb4c5be8f5f50806ac49",
+      "Host": "status.github.com"
+    }
+  }
+}
