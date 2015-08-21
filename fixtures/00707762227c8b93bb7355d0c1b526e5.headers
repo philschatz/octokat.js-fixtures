@@ -1,0 +1,44 @@
+{
+  "statusCode": 200,
+  "headers": {
+    "server": "GitHub.com",
+    "date": "Thu, 20 Aug 2015 20:29:06 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4918",
+    "connection": "close",
+    "status": "200 OK",
+    "x-ratelimit-limit": "5000",
+    "x-ratelimit-remaining": "4995",
+    "x-ratelimit-reset": "1440105876",
+    "cache-control": "private, max-age=60, s-maxage=60",
+    "last-modified": "Thu, 20 Aug 2015 20:22:42 GMT",
+    "etag": "\"26792b6c92acc4d463612c8358a36b86\"",
+    "x-poll-interval": "300",
+    "x-oauth-scopes": "gist, repo, user",
+    "x-accepted-oauth-scopes": "",
+    "vary": "Accept, Authorization, Cookie, X-GitHub-OTP, Accept-Encoding",
+    "x-github-media-type": "github.v3; format=json",
+    "x-xss-protection": "1; mode=block",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "590BA336:3D49:12E0368C:55D63892",
+    "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "a6882e5cd2513376cb9481dbcd83f3a2"
+  },
+  "url": "https://api.github.com:443/repos/philschatz/octokat.js/git/refs/tags",
+  "time": 686,
+  "request": {
+    "method": "GET",
+    "headers": {
+      "User-Agent": "octokat.js",
+      "Accept": "application/vnd.github.v3+json",
+      "If-Modified-Since": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "Authorization": "token c39bb5ccb2a6351fc533ad4c9d7b91b4f6153fd0",
+      "Host": "api.github.com"
+    }
+  }
+}
