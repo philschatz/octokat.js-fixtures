@@ -1,1 +1,1 @@
-{"verifiable_password_authentication":true,"github_services_sha":"749995b7a788ea5070c900866007c448e04afd8f","hooks":["192.30.252.0/22"],"git":["192.30.252.0/22"],"pages":["192.30.252.153/32","192.30.252.154/32"],"importer":["54.158.161.132","54.226.70.38","54.87.5.173","54.166.52.62"]}
+{"verifiable_password_authentication":true,"github_services_sha":"8dd46a8e0f41be8211ee6e1d14a59832e152f0e9","hooks":["192.30.252.0/22"],"git":["192.30.252.0/22"],"pages":["192.30.252.153/32","192.30.252.154/32"],"importer":["54.87.5.173","54.166.52.62","23.20.92.3"]}
